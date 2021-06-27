@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.div-input{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.button{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+  }
+  
+  .card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+}
+
+.result {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
